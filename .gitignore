@@ -4,10 +4,10 @@
 .pnp.js
 
 #test files
-.html
-.pdf
-.ejs
-.csv
+*.html
+*.pdf
+*.ejs
+*.csv
 
 # misc
 .DS_Store
